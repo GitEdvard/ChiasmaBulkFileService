@@ -1,0 +1,10 @@
+ChiasmaBulkFileService
+----------------------
+
+v 1.0.3266.25757
+
+* Created
+
+v 1.0.3930.16949	The function InitBulkInternalReportGenotypeFile() have an extra input argument 'bool isItemIndividual'.
+			This flag impact the apperance of the internal report bulk file, whether the item ids is 
+			labeled as individual_id or sample_id.

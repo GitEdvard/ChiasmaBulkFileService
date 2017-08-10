@@ -1,0 +1,27 @@
+OPA,LinkedGentrainFilePath
+REVal1-OPA,C:\Illumina\Uppsala\050603_Trainingplate_finished.isw
+
+0,ProjectId,MyProject,Project Name
+
+6.1.3.24,GenCall Software Version
+
+3,Number DNAs
+
+2,Number Loci
+oligoPoolId,recordType,data
+REVal1-OPA,Gentrain Scores,,0.9135851,0.7346542
+REVal1-OPA,ilmnIds,,rs977008-100_B_F_17448,rs1204798-100_B_R_17458
+REVal1-OPA,ilmnStrand,,B,B
+REVal1-OPA,locusIds,,1,2
+REVal1-OPA,locusNames,,ILMValMarker1,ILMValMarker2
+REVal1-OPA,olicodeNames,,3,10
+REVal1-OPA,snps,,C/G,T/C
+oligoPoolId,GTS LocusId,data
+REVal1-OPA,locus,,1,2
+instituteLabel,plateWell,imageDate,oligoPoolId,bundleId,status,recordType,data
+Val_ILMSample1_1A1,050601A01,6/3/2005 10:30:40 AM,REVal1-OPA,0000001_R001_C001,0,calls,,H,A
+Val_ILMSample1_1A1,050601A01,6/3/2005 10:30:40 AM,REVal1-OPA,0000001_R001_C001,0,Score_Call,,0.9040,0.7270
+Val_ILMSample2_1A2,050601A02,6/3/2005 10:42:48 AM,REVal1-OPA,0000001_R001_C002,0,calls,,B,U
+Val_ILMSample2_1A2,050601A02,6/3/2005 10:42:48 AM,REVal1-OPA,0000001_R001_C002,0,Score_Call,,0.9039,0.7269
+Val_ILMSample3_1A3,050601A02,6/3/2005 10:42:48 AM,REVal1-OPA,0000001_R001_C003,0,calls,,B,A
+Val_ILMSample3_1A3,050601A02,6/3/2005 10:42:48 AM,REVal1-OPA,0000001_R001_C003,0,Score_Call,,0.1400,0.7269
